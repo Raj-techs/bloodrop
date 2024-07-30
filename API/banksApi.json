@@ -262,6 +262,15 @@
       "date": "2024-07-18",
       "condition": " FEVER , HEAD ACHE",
       "id": "fa66"
+    },
+    {
+      "id": "e4ab",
+      "name": "",
+      "group": "",
+      "location": "",
+      "age": "",
+      "mobile": "",
+      "bankName": "Ananda Blood Bank"
     }
   ],
   "requests": [
@@ -298,28 +307,74 @@
   ],
   "allocated": [
     {
-      "id": "42ef",
+      "id": "661b",
       "fromBank": "Ananda Blood Bank",
       "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61194.64499415997!2d81.43966444863278!3d16.542985900000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37d2accada0be9%3A0x569c21bbfcc1fb8a!2sAnanda%20Blood%20Bank!5e0!3m2!1sen!2sin!4v1721277161608!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "fromCity": "Bhimavaram",
-      "group": "A-",
-      "units": "2",
-      "transferToBankName": "",
-      "transferCity": "Tadipalegudem",
-      "status": "processing...",
-      "date": "2024-07-18"
-    },
-    {
-      "id": "5b49",
-      "fromBank": "Dharani blood center",
-      "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88745.51287507403!2d81.48254024976227!3d16.565321057571204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37cd6d8d260ca7%3A0x428509389aa0ac65!2sDharani%20blood%20center!5e0!3m2!1sen!2sin!4v1721243919965!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
-      "fromCity": "Bhimavaram",
+      "fromUsername": "BV RAJU",
+      "userLocation": "Bhimavaram",
       "group": "O+",
       "units": "2",
       "transferToBankName": "Ananda Blood Bank",
       "transferCity": "Bhimavaram",
       "status": "processing...",
-      "date": "2024-07-18"
+      "date": "2024-07-29"
+    },
+    {
+      "id": "afb5",
+      "fromBank": "Ananda Blood Bank",
+      "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61194.64499415997!2d81.43966444863278!3d16.542985900000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37d2accada0be9%3A0x569c21bbfcc1fb8a!2sAnanda%20Blood%20Bank!5e0!3m2!1sen!2sin!4v1721277161608!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "fromCity": "Bhimavaram",
+      "fromUsername": "BV RAJU",
+      "userLocation": "Bhimavaram",
+      "group": "O+",
+      "units": "2",
+      "transferToBankName": "Ananda Blood Bank",
+      "transferCity": "Bhimavaram",
+      "status": "processing...",
+      "date": "2024-07-29"
+    },
+    {
+      "id": "9853",
+      "fromBank": "Dharani blood center",
+      "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88745.51287507403!2d81.48254024976227!3d16.565321057571204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37cd6d8d260ca7%3A0x428509389aa0ac65!2sDharani%20blood%20center!5e0!3m2!1sen!2sin!4v1721243919965!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "fromCity": "Bhimavaram",
+      "fromUsername": "BV RAJU",
+      "userLocation": "Bhimavaram",
+      "group": "O+",
+      "units": "2",
+      "transferToBankName": "Ananda Blood Bank",
+      "transferCity": "Bhimavaram",
+      "status": "processing...",
+      "date": "2024-07-29"
+    },
+    {
+      "id": "1132",
+      "fromBank": "Buddala Blood Bank",
+      "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12564.377447336916!2d81.66878649136818!3d16.756930589345714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37b7e554a5f131%3A0x5ad4b352b96206e3!2sBuddala%20Blood%20Bank!5e0!3m2!1sen!2sin!4v1721316828976!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "fromCity": "Tanuku",
+      "fromUsername": "Satish Sure",
+      "userLocation": "Tadipalegudem",
+      "group": "A-",
+      "units": "2",
+      "transferToBankName": "",
+      "transferCity": "Tadipalegudem",
+      "status": "processing...",
+      "date": "2024-07-29"
+    },
+    {
+      "id": "32ec",
+      "fromBank": "Dharani blood center",
+      "fromLocation": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88745.51287507403!2d81.48254024976227!3d16.565321057571204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37cd6d8d260ca7%3A0x428509389aa0ac65!2sDharani%20blood%20center!5e0!3m2!1sen!2sin!4v1721243919965!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "fromCity": "Bhimavaram",
+      "fromUsername": "Satish Sure",
+      "userLocation": "Tadipalegudem",
+      "group": "A-",
+      "units": "2",
+      "transferToBankName": "",
+      "transferCity": "Tadipalegudem",
+      "status": "processing...",
+      "date": "2024-07-29"
     }
   ],
   "registered": [
